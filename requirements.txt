@@ -7,3 +7,4 @@ langchain_openai
 faiss_cpu
 streamlit
 tavily-python
+typing_extensions
